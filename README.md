@@ -28,7 +28,7 @@ Trabalho com clima, evapotranspiração, solos e sensoriamento remoto, geralment
 | | |
 |---|---|
 | [**climate_for_soil**](https://github.com/fcoliveira-utfpr/climate_for_soil) | Covariáveis climáticas (CHELSA) para os modelos de solo do MapBiomas: reprodução, comparação de classificações climáticas e zonas homogêneas. |
-| [**agrometeorologiapy**](https://github.com/fcoliveira-utfpr/agrometeorologiapy) | Fórmulas de agrometeorologia em Python: radiação solar, evapotranspiração, balanço de energia e balanço hídrico. |
+| [**agrometeorologiapy**](https://github.com/fcoliveira-utfpr/agrometeorologiapy) | Biblioteca Python com fórmulas de agrometeorologia em Python: radiação solar, evapotranspiração, balanço de energia e balanço hídrico. |
 | [**IDFTec**](https://github.com/fcoliveira-utfpr/IDFTec) | Curvas de Intensidade-Duração-Frequência (IDF) para 5.569 municípios brasileiros, com base em chuva máxima diária (1961–2025, Xavier BR-DWGD). |
 | [**climas_brasil**](https://github.com/fcoliveira-utfpr/climas_brasil) | Classificação climática de Köppen-Geiger, Thornthwaite e Camargo para o Brasil por unidade político-administrativa. |
 | [**nasapower_validation**](https://github.com/fcoliveira-utfpr/nasapower_validation) | Validação dos dados NASA/POWER para evapotranspiração de referência em regiões úmidas do Brasil. |
