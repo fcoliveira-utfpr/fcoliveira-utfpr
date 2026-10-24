@@ -1,7 +1,7 @@
 ### Fabrício de Oliveira
 
-Professor e pesquisador em Agrometeorologia e Ciência de Dados Ambientais na UTFPR, campus Santa Helena.
-Trabalho com clima, evapotranspiração, solos e sensoriamento remoto, geralmente em Python e Google Earth Engine.
+Professor and researcher in Agrometeorology and Environmental Data Science at UTFPR (Federal University of Technology – Paraná), Santa Helena campus.
+I work on climate, evapotranspiration, crop modeling, soils and remote sensing, mostly with Python and Google Earth Engine.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7373--0667-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7373-0667)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-1E5EAB?logo=readme&logoColor=white)](http://lattes.cnpq.br/9528194038713972)
@@ -10,7 +10,7 @@ Trabalho com clima, evapotranspiração, solos e sensoriamento remoto, geralment
 
 ---
 
-#### Ferramentas
+#### Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
@@ -23,16 +23,18 @@ Trabalho com clima, evapotranspiração, solos e sensoriamento remoto, geralment
 
 ---
 
-#### Projetos em destaque
+#### Featured projects
 
 | | |
 |---|---|
-| [**climate_for_soil**](https://github.com/fcoliveira-utfpr/climate_for_soil) | Covariáveis climáticas (CHELSA) para os modelos de solo do MapBiomas: reprodução, comparação de classificações climáticas e zonas homogêneas. |
-| [**agrometeorologiapy**](https://github.com/fcoliveira-utfpr/agrometeorologiapy) | Biblioteca Python com fórmulas de agrometeorologia em Python: radiação solar, evapotranspiração, balanço de energia e balanço hídrico. |
-| [**IDFTec**](https://github.com/fcoliveira-utfpr/IDFTec) | Curvas de Intensidade-Duração-Frequência (IDF) para 5.569 municípios brasileiros, com base em chuva máxima diária (1961–2025, Xavier BR-DWGD). |
-| [**climas_brasil**](https://github.com/fcoliveira-utfpr/climas_brasil) | Classificação climática de Köppen-Geiger, Thornthwaite e Camargo para o Brasil por unidade político-administrativa. |
-| [**nasapower_validation**](https://github.com/fcoliveira-utfpr/nasapower_validation) | Validação dos dados NASA/POWER para evapotranspiração de referência em regiões úmidas do Brasil. |
-| [**agrometeorologia**](https://github.com/fcoliveira-utfpr/agrometeorologia) | Material e códigos da disciplina de Agrometeorologia, curso de Agronomia — UTFPR Santa Helena. |
+| [**agrometeorologiapy**](https://github.com/fcoliveira-utfpr/agrometeorologiapy) | Python library ([PyPI](https://pypi.org/project/agrometeorologiapy/)) for agrometeorology: solar radiation, temperature, humidity, energy balance, evapotranspiration, degree-days, water balance and the FAO Agro-Ecological Zone crop model. |
+| [**ML_maize_pr**](https://github.com/fcoliveira-utfpr/ML_maize_pr) | Hybrid FAO Agro-Ecological Zone + machine learning model for second-season maize yield in the 399 municipalities of Paraná, with economic risk analysis of the sowing date. |
+| [**climate_paraguay**](https://github.com/fcoliveira-utfpr/climate_paraguay) | [ClimaTec PY](https://fcoliveira-utfpr.github.io/climate_paraguay/): Köppen-Geiger, Thornthwaite and Holdridge life zone classifications for Paraguay at ~1 km, from 1991–2020 climate normals, with an interactive web atlas. |
+| [**eto_cfa_nasapower**](https://github.com/fcoliveira-utfpr/eto_cfa_nasapower) | Daily reference evapotranspiration from NASA/POWER in the humid subtropical (Cfa) climate of Brazil: Penman-Monteith, empirical equations and machine learning models validated at 90 INMET stations. |
+| [**IDFTec**](https://github.com/fcoliveira-utfpr/IDFTec) | Intensity-Duration-Frequency (IDF) curves for 5,569 Brazilian municipalities, based on annual maximum daily rainfall (1961–2025, Xavier BR-DWGD). |
+| [**climate_for_soil**](https://github.com/fcoliveira-utfpr/climate_for_soil) | Climate covariates (CHELSA) for the MapBiomas Soil models: reproduction, comparison of climate classifications and homogeneous zones. |
+| [**climate_parana**](https://github.com/fcoliveira-utfpr/climate_parana) | Hydroclimatic and thermal characterization of agroclimatic zones in Paraná, Brazil, at the municipal scale. |
+| [**climas_brasil**](https://github.com/fcoliveira-utfpr/climas_brasil) | Köppen-Geiger, Thornthwaite and Camargo climate classifications for Brazil by administrative unit. |
 
 ---
 
