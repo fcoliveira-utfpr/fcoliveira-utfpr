@@ -17,7 +17,7 @@ I work on climate, evapotranspiration, crop modeling and emulation, soils and re
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-2E7D32?logo=googleearth&logoColor=white)
 ![DSSAT](https://img.shields.io/badge/DSSAT-CROPGRO-2f6b3c)
 ![AquaCrop](https://img.shields.io/badge/FAO-AquaCrop-0e75b6)
-[![agrometeorologiapy](https://img.shields.io/badge/agrometeorologiapy-2e7d32?logo=python&logoColor=white)]
+![agrometeorologiapy](https://img.shields.io/badge/agrometeorologiapy-2e7d32?logo=python&logoColor=white)
 
 
 ---
