@@ -15,11 +15,6 @@ I work on climate, evapotranspiration, crop modeling and emulation, soils and re
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-2E7D32?logo=googleearth&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
 ![DSSAT](https://img.shields.io/badge/DSSAT-CROPGRO-2f6b3c)
 ![AquaCrop](https://img.shields.io/badge/FAO-AquaCrop-0e75b6)
 [![agrometeorologiapy](https://img.shields.io/badge/agrometeorologiapy-2e7d32?logo=python&logoColor=white)]
