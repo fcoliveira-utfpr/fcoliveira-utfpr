@@ -22,6 +22,7 @@ I work on climate, evapotranspiration, crop modeling and emulation, soils and re
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
 ![DSSAT](https://img.shields.io/badge/DSSAT-CROPGRO-2f6b3c)
 ![AquaCrop](https://img.shields.io/badge/FAO-AquaCrop-0e75b6)
+[![agrometeorologiapy](https://img.shields.io/badge/made%20with-agrometeorologiapy-2e7d32?logo=python&logoColor=white)]
 
 
 ---
